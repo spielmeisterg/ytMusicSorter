@@ -1,0 +1,2 @@
+genre info over 1 nummer
+https://youtube.googleapis.com/youtube/v3/videos?part=topicDetails&id=8ay_BkRuv-o&key={api key here}
